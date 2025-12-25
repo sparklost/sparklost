@@ -7,3 +7,7 @@ Reach me at:
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/Mzivic/)  
 If you like my work, you can support me on Ko-fi:  
 [![Ko-Fi](https://shields.io/badge/ko--fi-donate-ff5f5f?logo=ko-fi&style=for-the-badgeKo-fi)](https://ko-fi.com/sparklost)
+
+I am **not affiliated with any cryptocurrency, token, or coin**.
+Any project, token, or coin using my name, username, or profile image (including on platforms like pump.fun) is **unauthorized and impersonating me**.
+Please do not engage with or trust such projects.
